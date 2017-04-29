@@ -1,3 +1,4 @@
+//Generate valid password of length k in increasing order
 import java.util.*;
 class Password{
   public static void main(String[] args) {

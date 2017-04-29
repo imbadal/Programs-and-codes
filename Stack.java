@@ -1,3 +1,4 @@
+//Linked representation of stack
 import java.util.*;
 import java.lang.System.*;
 
